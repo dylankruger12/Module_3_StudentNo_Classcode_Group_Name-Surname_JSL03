@@ -1,4 +1,5 @@
 function cookSteak(steakWeight, desiredDoneness) {
+  
     let grillTemperature = 0;
     let steakTemperature = 0;
     
